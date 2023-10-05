@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # AirBnB clone web server setup and configuration
 
 # SCRIPT INCOMPLETE. NEEDS SOME MORE THINKING---
+=======
+# Puppet for setup
+
+>>>>>>> 13d1292a7e360c9762603dd455984b3a2b394c3d
 $nginx_conf = "server {
     listen 80 default_server;
     listen [::]:80 default_server;
