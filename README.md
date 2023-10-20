@@ -10,5 +10,3 @@ In this first deployment project, you will be deploying your web_static work. Yo
 Before starting, please fork the repository AirBnB_clone_v2 from your partner if you don’t have it
 
 
-
-
